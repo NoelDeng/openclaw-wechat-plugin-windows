@@ -50,7 +50,7 @@ openclaw plugins install https://github.com/NoelDeng/openclaw-wechat-plugin-wind
 
 **或者使用本地路径**（如果已经下载到本地）：
 ```bash
-openclaw plugins install C:\Users\Noel\Desktop\openclaw-wechat-plugin-windows
+openclaw plugins install C:\Users\<用户名>\Desktop\openclaw-wechat-plugin-windows
 ```
 
 ### 3. 配置OpenClaw
