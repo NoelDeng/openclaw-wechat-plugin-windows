@@ -45,8 +45,12 @@ chatlog是微信消息抓取工具，用于提供Webhook接口。
 ### 2. 安装OpenClaw插件
 
 ```bash
-openclaw plugins install C:\Users\Noel\Desktop\openclaw-wechat-plugin-windows
+openclaw plugins install <插件路径>
 ```
+
+将 `<插件路径>` 替换为插件的实际路径，例如：
+- Windows: `C:\Users\Noel\Desktop\openclaw-wechat-plugin-windows`
+- macOS/Linux: `/Users/xxx/Desktop/openclaw-wechat-plugin-windows`
 
 ### 3. 配置OpenClaw
 
