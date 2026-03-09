@@ -1,0 +1,16 @@
+{
+  "id": "wechat",
+  "name": "WeChat Windows Channel",
+  "description": "Windows微信插件，通过chatlog Webhook接收消息，剪贴板发送",
+  "channels": ["wechat"],
+  "skills": [],
+  "capabilities": {
+    "proactiveMessaging": false,
+    "cronJobs": false
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "openclaw-wechat-plugin-windows",
+  "version": "1.0.0",
+  "description": "OpenClaw WeChat Windows Channel - 通过chatlog Webhook接收消息，剪贴板发送",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "openclaw",
+    "wechat",
+    "windows",
+    "chatlog",
+    "automation"
+  ],
+  "author": "Noel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "openclaw": "^2026.3.2"
+  }
+}
